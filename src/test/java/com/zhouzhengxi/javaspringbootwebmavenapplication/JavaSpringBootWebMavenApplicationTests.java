@@ -1,10 +1,10 @@
-package cloudnative.buildpacks.example;
+package com.zhouzhengxi.javaspringbootwebmavenapplication;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringBootCloudNativeBuildpacksApplicationTests {
+class JavaSpringBootWebMavenApplicationTests {
 
 	@Test
 	void contextLoads() {
